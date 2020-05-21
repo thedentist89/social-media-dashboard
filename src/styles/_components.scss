@@ -66,7 +66,7 @@
     width: 14px;
     height: 14px;
     border-radius: 999px;
-    transition: all 300ms;
+    transition: all 300ms ease;
     background: var(--toggle-bg);
 
     &-off {
